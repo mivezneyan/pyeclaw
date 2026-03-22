@@ -6,7 +6,7 @@ This guide walks you through installing and running PyeClaw for the first time.
 
 ### From Release
 
-1. Go to the [Releases](https://github.com/mivezneyanx/pyeclaw/releases/latest) page
+1. Go to the [Releases](https://github.com/mivezneyan/pyeclaw/releases/latest) page
 2. Download the installer for your operating system:
    - **macOS**: `.pkg` file
    - **Windows**: `.exe` installer
@@ -21,7 +21,7 @@ Requirements:
 - pip (included with Python)
 
 ```bash
-git clone https://github.com/mivezneyanx/pyeclaw.git
+git clone https://github.com/mivezneyan/pyeclaw.git
 cd pyeclaw
 pip install -e .
 python -m pyeclaw

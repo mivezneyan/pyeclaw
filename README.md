@@ -1,16 +1,16 @@
 # PyeClaw
 
 <p align="center">
-    <a href="https://github.com/mivezneyanx/pyeclaw" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/mivezneyan/pyeclaw" target="_blank" rel="noopener noreferrer">
         <img width="200" src="extras/images/logo.png" alt="PyeClaw Logo">
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/mivezneyanx/pyeclaw/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/mivezneyanx/pyeclaw/build.yml?style=flat-square" alt="Build"></a>
-    <a href="https://github.com/mivezneyanx/pyeclaw/releases/latest"><img src="https://img.shields.io/github/v/release/mivezneyanx/pyeclaw?style=flat-square" alt="Release"></a>
-    <a href="https://github.com/mivezneyanx/pyeclaw/releases/latest"><img src="https://img.shields.io/github/downloads/mivezneyanx/pyeclaw/total?style=flat-square" alt="Downloads"></a>
-    <a href="https://github.com/mivezneyanx/pyeclaw/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/mivezneyanx/pyeclaw?style=flat-square" alt="License"></a>
+    <a href="https://github.com/mivezneyan/pyeclaw/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/mivezneyan/pyeclaw/build.yml?style=flat-square" alt="Build"></a>
+    <a href="https://github.com/mivezneyan/pyeclaw/releases/latest"><img src="https://img.shields.io/github/v/release/mivezneyan/pyeclaw?style=flat-square" alt="Release"></a>
+    <a href="https://github.com/mivezneyan/pyeclaw/releases/latest"><img src="https://img.shields.io/github/downloads/mivezneyan/pyeclaw/total?style=flat-square" alt="Downloads"></a>
+    <a href="https://github.com/mivezneyan/pyeclaw/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/mivezneyan/pyeclaw?style=flat-square" alt="License"></a>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ With PyeClaw you can:
 
 ## Download
 
-Go to the [Releases](https://github.com/mivezneyanx/pyeclaw/releases/latest) page and download for your operating system:
+Go to the [Releases](https://github.com/mivezneyan/pyeclaw/releases/latest) page and download for your operating system:
 
 | Platform | Format | Architecture |
 |----------|--------|-------------|
@@ -68,7 +68,7 @@ That's it — no terminal commands needed.
 ### Setup
 
 ```bash
-git clone https://github.com/mivezneyanx/pyeclaw.git
+git clone https://github.com/mivezneyan/pyeclaw.git
 cd pyeclaw
 make install
 ```
@@ -146,6 +146,6 @@ See [LICENSE](LICENSE.md) for details.
 
 ## Links
 
-- [GitHub](https://github.com/mivezneyanx/pyeclaw) · [Issues](https://github.com/mivezneyanx/pyeclaw/issues) · [Releases](https://github.com/mivezneyanx/pyeclaw/releases)
+- [GitHub](https://github.com/mivezneyan/pyeclaw) · [Issues](https://github.com/mivezneyan/pyeclaw/issues) · [Releases](https://github.com/mivezneyan/pyeclaw/releases)
 
-Made by [Michelle Vezneyan](https://github.com/mivezneyanx)
+Made by [Michelle Vezneyan](https://github.com/mivezneyan)
