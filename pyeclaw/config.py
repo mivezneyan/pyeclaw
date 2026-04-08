@@ -2,7 +2,7 @@ import sys
 from pathlib import Path
 
 APP_NAME = "PyeClaw"
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.1.0"
 
 GATEWAY_HOST = "127.0.0.1"
 GATEWAY_PORT = 18789
